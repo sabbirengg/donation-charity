@@ -20,11 +20,12 @@ i {
 }
 
 .header-sec {
-    background: url(image/donate.jpg);
+    background: url(image/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
     height: auto;
+
 }
 
 .header-sec img {
@@ -33,11 +34,20 @@ i {
 
 .header-sec h1 {
     font-size: 50px;
+    text-align: center;
 }
 
 
 .header-cover {
     padding: 100px 400px;
+}
+
+.donation-sec {
+    margin-top: 50px;
+}
+
+.donation-sec-2 {
+    margin-top: 50px;
 }
 
 .donation-area {
@@ -150,12 +160,12 @@ i {
 }
 
 .stat h1 {
-    color: red;
+    color: #FF3547;
     font-weight: 800;
 }
 
 .stat h4 {
-    color: rgb(140, 74, 255);
+    color: #00BCD4;
     font-size: 30px;
 }
 
