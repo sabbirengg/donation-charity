@@ -190,10 +190,6 @@ i {
 
 }
 
-.form-email:focus {
-    outline: 1px solid #3D9FFF;
-}
-
 .form-button {
     background: orangered;
     border: none;
