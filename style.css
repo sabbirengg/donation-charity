@@ -24,7 +24,7 @@ i {
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-    min-height: 200px;
+    height: auto;
 }
 
 .header-sec img {
@@ -43,7 +43,6 @@ i {
 .donation-area {
     width: 40%;
     margin: 0 auto;
-    padding-top: 50px;
 }
 
 .area-title {
@@ -127,6 +126,43 @@ i {
 
 #card-3 {
     background-color: #E7DDC2;
+}
+
+.statistic-sec {
+    display: flex;
+}
+
+.statistic-half {
+    width: 50%;
+    padding: 5%;
+    font-size: 20px;
+}
+
+.statistic {
+    display: flex;
+}
+
+.stat {
+    width: 30%;
+    padding: 50px;
+    text-align: center;
+    padding-top: 0;
+}
+
+.stat h1 {
+    color: red;
+    font-weight: 800;
+}
+
+.stat h4 {
+    color: rgb(140, 74, 255);
+    font-size: 30px;
+}
+
+.st {
+    height: 179px;
+    width: 176px;
+    border-radius: 10px;
 }
 
 .contribute-sec {
